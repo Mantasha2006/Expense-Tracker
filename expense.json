@@ -16,5 +16,65 @@
         "Expense_amount": 600,
         "Category": "stationary",
         "Date": "10-10-2026"
+    },
+    "104": {
+        "Expense_name": "shopping clothes",
+        "Expense_amount": 2200,
+        "Category": "personal",
+        "Date": "30-09-2026"
+    },
+    "105": {
+        "Expense_name": "Hospital checkup",
+        "Expense_amount": 700,
+        "Category": "personal",
+        "Date": "04-08-2026"
+    },
+    "106": {
+        "Expense_name": "buy laptop",
+        "Expense_amount": 60000,
+        "Category": "professional",
+        "Date": "06-07-2026"
+    },
+    "107": {
+        "Expense_name": "Groceries",
+        "Expense_amount": 1200,
+        "Category": "Food",
+        "Date": "08-09-2026"
+    },
+    "108": {
+        "Expense_name": "Bus Ticket",
+        "Expense_amount": 200,
+        "Category": "Transport",
+        "Date": "09-09-2026"
+    },
+    "109": {
+        "Expense_name": "Mobile Reacharge",
+        "Expense_amount": 650,
+        "Category": "Bills",
+        "Date": "04-11-2026"
+    },
+    "110": {
+        "Expense_name": "Movie Ticket",
+        "Expense_amount": 350,
+        "Category": "Entertainment",
+        "Date": "03-06-2026"
+    },
+    "111": {
+        "Expense_name": "Online Course",
+        "Expense_amount": 999,
+        "Category": "Education",
+        "Date": "10-10-2026"
+    },
+    "112": {
+        "Expense_name": "Coffe",
+        "Expense_amount": 150,
+        "Category": "Food",
+        "Date": "01-01-2026"
+    },
+    "113": {
+        "Expense_name": "Birthday Gift",
+        "Expense_amount": 900,
+        "Category": "personal",
+        "Date": "13-08-2026"
     }
 }
