@@ -1,0 +1,20 @@
+{
+    "101": {
+        "Expense_name": "buy shose",
+        "Expense_amount": 200,
+        "Category": "personal",
+        "Date": "20-10-2026"
+    },
+    "102": {
+        "Expense_name": "buy purse",
+        "Expense_amount": 300,
+        "Category": "personal",
+        "Date": "23-10-2026"
+    },
+    "103": {
+        "Expense_name": "buy books",
+        "Expense_amount": 600,
+        "Category": "stationary",
+        "Date": "10-10-2026"
+    }
+}
